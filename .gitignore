@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 .vscode/
+.idea/
 
 # Expo
 .expo/
@@ -37,6 +38,5 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-# misc
-.vscode/
+
 
